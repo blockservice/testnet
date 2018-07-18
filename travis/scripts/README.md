@@ -40,7 +40,7 @@ Run `./cluster.sh [chain_id] [count_of_all_nodes] [count_of_validators]` to init
 mkdir -p ~/volumes
 git clone https://github.com/CyberMiles/testnet.git ~/volumes/testnet
 cd ~/volumes/testnet/travis/scripts
-git checkout tmup
+git checkout tmup22
 
 # this will initialize a cluster for the next section.
 # Notes: please add `sudo` if you got error like "can't read XXX file or directory ..."
